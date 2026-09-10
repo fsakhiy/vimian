@@ -1,0 +1,29 @@
+---
+componentName:  debian
+welcomeStyleCalamares:   false
+welcomeExpandingLogo:    true
+windowExpanding:         normal
+windowSize:              800px,520px
+windowPlacement:         center
+
+strings:
+    productName:         v1mian OS
+    shortProductName:    vimian
+    version:             1.0
+    shortVersion:        1.0
+    versionedName:       v1mian OS 1.0
+    shortVersionedName:  vimian 1.0
+    bootloaderEntryName: vimian
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "logo.png"
+    productWelcome:      "logo.png"
+
+slideshow:               "show.qml"
+
+style:
+   SidebarBackground:    "#292F34"
+   SidebarText:          "#FFFFFF"
+   SidebarTextCurrent:   "#292F34"
+   SidebarBackgroundCurrent: "#D35400"
