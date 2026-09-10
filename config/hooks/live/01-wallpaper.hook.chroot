@@ -1,2 +1,0 @@
-#!/bin/sh
-ln -sf /usr/share/backgrounds/clove.png /etc/alternatives/desktop-background
