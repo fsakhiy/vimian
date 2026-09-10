@@ -6,6 +6,12 @@ source/
 .build/
 *.iso
 *.log
+*.files
+*.packages
+*.contents
+*.modified_timestamps
+*.install
+*.live
 
 # Ignore standard temporary files
 *~
