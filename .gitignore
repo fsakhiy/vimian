@@ -1,0 +1,12 @@
+# Ignore live-build temporary and output files
+chroot/
+cache/
+binary/
+source/
+.build/
+*.iso
+*.log
+
+# Ignore standard temporary files
+*~
+.DS_Store
