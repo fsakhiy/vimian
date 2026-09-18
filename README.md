@@ -1,4 +1,4 @@
-# Lambo PHP OS
+# v1mian OS
 
 A custom Debian 13 (Trixie) live operating system built with `live-build`. This distribution features a customized XFCE desktop environment, a branded Calamares graphical installer, and an environment tailored for backend engineering with PHP, Node.js, and Go.
 
